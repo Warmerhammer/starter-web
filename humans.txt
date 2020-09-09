@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Richard O'Donnell rodonnell@training.org
 
 # THANKS
 
