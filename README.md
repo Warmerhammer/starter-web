@@ -17,4 +17,4 @@ This is a simple web projecct, deployment can be made simple.
 Please fork this repository and then issue Pull requests for review. 
 
 ### Copyright
-Git.Training
+Git.Training. Allrights reserved.
